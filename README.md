@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# tugas2
-=======
 # tugas2
 
 ## Project setup
